@@ -1,0 +1,85 @@
+[04-Mar-2023 04:59:18 UTC] DUP:Error deactivate license: ACTIVATION_RESPONSE_INVALID
+[07-Feb-2024 06:10:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224
+[07-Feb-2024 06:10:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224
+[07-Feb-2024 06:30:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224
+[07-Feb-2024 06:38:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224
+[07-Feb-2024 06:39:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224
+[07-Feb-2024 06:43:12 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224
+[07-Feb-2024 06:45:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "seraph_accel\NONCE_SALT" in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php:4224
+Stack trace:
+#0 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4528): seraph_accel\LogGetRelativeFile()
+#1 /home/websit19/kaosjerseysemarang.com/wp-admin/includes/template.php(1456): seraph_accel\{closure}()
+#2 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/Cmn/Ui.php(971): do_meta_boxes()
+#3 /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/options.php(4707): seraph_accel\Ui::PostBoxes()
+#4 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(324): seraph_accel\_SettingsPage()
+#5 /home/websit19/kaosjerseysemarang.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#6 /home/websit19/kaosjerseysemarang.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#7 /home/websit19/kaosjerseysemarang.com/wp-admin/admin.php(259): do_action()
+#8 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-content/plugins/seraphinite-accelerator/common.php on line 4224

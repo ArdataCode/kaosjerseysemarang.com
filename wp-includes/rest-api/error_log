@@ -1,0 +1,4 @@
+[27-Mar-2024 05:35:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_HTTP_Response" not found in /home/websit19/kaosjerseysemarang.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/kaosjerseysemarang.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
